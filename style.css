@@ -12,6 +12,7 @@ body {
     margin: 0px;
     padding: 8px;
     font-family: "Great Vibes",Baskervville, serif;
+    font-size: medium;
 }
 
 ul {
@@ -37,6 +38,7 @@ body > header {
 }
 
 body > header > nav > ul {
+    font-family: "Urbanist" ;
     list-style: none;
     text-decoration: none;
 }
