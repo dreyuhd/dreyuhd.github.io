@@ -79,6 +79,7 @@ h2 {
 body > footer {
     background-color: rgb(180, 206, 184);
     display: flex;
+    text-align: left;
     font-family: "Great Vibes",Baskervville, serif;
     padding: 4px;
 }
