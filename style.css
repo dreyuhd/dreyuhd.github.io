@@ -76,6 +76,10 @@ h2 {
     font-family: "Urbanist";
 }
 
+h3 {
+    font-family: "Great Vibes",Baskervville, serif;
+}
+
 body > footer {
     background-color: rgb(180, 206, 184);
     display: flex;
