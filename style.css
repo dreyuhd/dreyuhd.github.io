@@ -38,7 +38,7 @@ body > header {
 }
 
 body > header > nav > ul {
-    font-family: "Urbanist Thin 100" ;
+    font-family: "Urbanist" ;
     list-style: none;
     text-decoration: none;
 }
@@ -52,7 +52,7 @@ body > header > nav > ul {
 }
 
 body > main article {
-    font-family: "Urbanist Thin 100" ;
+    font-family: "Urbanist" ;
     width: 70%;
     margin: auto;
 }
@@ -95,5 +95,5 @@ img {
 #footer-ul > div > li > a {
     color: white;
     text-decoration: none;
-    font-family: "Urbanist Thin 100" ;
+    font-family: "Urbanist" ;
 }
