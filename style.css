@@ -86,6 +86,7 @@ img {
 #footer-ul {
     display: flex;
     list-style: none;
+    text-align: right;
 }
 
 #footer-ul > div > li {
