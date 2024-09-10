@@ -51,6 +51,10 @@ body > header > nav > ul {
     border-radius: 10%;
 }
 
+h4 {
+    font-family: "Urbanist";
+}
+
 body > main article {
     font-family: "Urbanist" ;
     width: 70%;
