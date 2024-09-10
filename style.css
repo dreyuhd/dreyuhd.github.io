@@ -42,10 +42,10 @@ body > header > nav > ul {
 }
 
 .navbutton {
-    color: white;
+    color: rgb(21, 2, 13);
     text-decoration: none;
     padding: 12px;
-    border: 1px solid white;
+    border: 0px solid white;
     border-radius: 10%;
 }
 
