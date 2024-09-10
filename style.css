@@ -11,7 +11,7 @@ body {
 #logo {
     margin: 0px;
     padding: 8px;
-    font-family: "Fredoka One", sans-serif;
+    font-family: "Modern serif", sans-serif;
 }
 
 ul {
@@ -19,8 +19,8 @@ ul {
 }
 
 body > header {
-    background-color: orange;
-    color: rgb(226, 10, 114);
+    background-color: rgb(194, 187, 172);
+    color: rgb(21, 2, 13);
     display: flex;
     height: 10vh;
     align-items: center;
