@@ -100,8 +100,8 @@ body > footer {
 
 img {
     border-radius: 0%;
-    height: 10%;
-    width: 8%;
+    height: 10px;
+    width: 8px;
 }
 
 div.gallery {
